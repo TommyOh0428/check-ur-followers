@@ -9,7 +9,7 @@ How to get Follower data in JSON format
 ----------------------------------------
 https://help.instagram.com/181231772500920
 
-Instagram account that uses Facebook account did not work when I tried
+**Instagram account that uses Facebook account did not work when I tried**
 
 This program has been inspired and copied by the Instagram reels that I found.
 (I couldn't find which reel it was)
